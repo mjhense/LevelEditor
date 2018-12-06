@@ -1,0 +1,148 @@
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+c:\users\michael hense\source\repos\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+D:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+F:\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+F:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+D:\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+D:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+F:\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
+F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\animations.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
+D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\animations.xnb
