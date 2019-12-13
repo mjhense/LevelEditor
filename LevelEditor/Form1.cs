@@ -64,7 +64,7 @@ namespace LevelEditor
                 MousePosition.Y - this.Top - control.Top - 39);
         }
 
-        private void pb_palette_MouseClick(object sender, MouseEventArgs e)
+        public void pb_palette_MouseClick(object sender, MouseEventArgs e)
         {
             int mouseX = e.X;
             int mouseY = e.Y;
@@ -210,6 +210,40 @@ namespace LevelEditor
                     selectedTileY = tileY;
                 }
             }
+            if (e.Button == MouseButtons.Right)
+            {
+                int mouseX = e.X + (int)game.game.Camera.Position.X;
+                int mouseY = e.Y + (int)game.game.Camera.Position.Y;
+                int tileX = (mouseX / game.game.tilemap.TileWidth);
+                int tileY = (mouseY / game.game.tilemap.TileHeight);
+                if (tileX >= game.game.tilemap.MapWidth)
+                    tileX = game.game.tilemap.MapWidth - 1;
+                if (tileY >= game.game.tilemap.MapHeight)
+                    tileY = game.game.tilemap.MapHeight - 1;
+                if (tileX < 0)
+                    tileX = 0;
+                if (tileY < 0)
+                    tileY = 0;
+                if (rad_draw.Checked)
+                {
+                    // fill current tile with transparency (erase it)
+                    int tilenum = Tilemap.transparentTile;
+                    int layer = game.game.editor.selectedLayer;
+                    game.game.tilemap.SetTilenum(tileX, tileY, layer, tilenum);
+                }
+                else if (rdo_edit.Checked)
+                {
+                    // set current tile to collidable
+                    game.game.editor.selectedRectangle = new Microsoft.Xna.Framework.Rectangle(tileX
+                        * tileWidth, tileY * tileHeight, tileWidth, tileHeight);
+                    Tile tile = game.game.tilemap.tileMap[tileX, tileY];
+                    tile.Collidable = true;
+                    setTileInformation(tile);
+                    selectedTileX = tileX;
+                    selectedTileY = tileY;
+                    game.game.tilemap.tileMap[selectedTileX, selectedTileY] = tile;
+                }
+            }
         }
 
         private void pnlSurface_MouseMove(object sender, MouseEventArgs e)
@@ -242,6 +276,40 @@ namespace LevelEditor
                     setTileInformation(tile);
                     selectedTileX = tileX;
                     selectedTileY = tileY;
+                }
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                int mouseX = e.X + (int)game.game.Camera.Position.X;
+                int mouseY = e.Y + (int)game.game.Camera.Position.Y;
+                int tileX = (mouseX / game.game.tilemap.TileWidth);
+                int tileY = (mouseY / game.game.tilemap.TileHeight);
+                if (tileX >= game.game.tilemap.MapWidth)
+                    tileX = game.game.tilemap.MapWidth - 1;
+                if (tileY >= game.game.tilemap.MapHeight)
+                    tileY = game.game.tilemap.MapHeight - 1;
+                if (tileX < 0)
+                    tileX = 0;
+                if (tileY < 0)
+                    tileY = 0;
+                if (rad_draw.Checked)
+                {
+                    // fill current tile with transparency (erase it)
+                    int tilenum = Tilemap.transparentTile;
+                    int layer = game.game.editor.selectedLayer;
+                    game.game.tilemap.SetTilenum(tileX, tileY, layer, tilenum);
+                }
+                else if (rdo_edit.Checked)
+                {
+                    // set current tile to collidable
+                    game.game.editor.selectedRectangle = new Microsoft.Xna.Framework.Rectangle(tileX
+                        * tileWidth, tileY * tileHeight, tileWidth, tileHeight);
+                    Tile tile = game.game.tilemap.tileMap[tileX, tileY];
+                    tile.Collidable = true;
+                    setTileInformation(tile);
+                    selectedTileX = tileX;
+                    selectedTileY = tileY;
+                    game.game.tilemap.tileMap[selectedTileX, selectedTileY] = tile;
                 }
             }
         }

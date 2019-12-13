@@ -146,3 +146,34 @@ F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\dec
 F:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\animations.xnb
 D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
 D:\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\animations.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\animations.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.exe
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\LevelEditor.pdb
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Form1.resources
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+D:\Documents\Programming\Programming Backups\Aerritis\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb

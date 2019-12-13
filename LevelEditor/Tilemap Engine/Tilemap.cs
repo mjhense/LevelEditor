@@ -21,7 +21,7 @@ namespace LevelEditor.Tilemap_Engine
         private const int mapHeight = 128;
         private int mapLayers = 4;
         public const int grassTile = 342;
-        public const int transparentTile = 1437;
+        public const int transparentTile = 47;
         public Tile[,] tileMap;
         private GameHandler game;
         private bool followingPlayer;

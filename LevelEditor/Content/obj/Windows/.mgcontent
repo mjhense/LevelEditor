@@ -4,10 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Aerritis/LevelEditor/LevelEditor/Content/Sprite/square.png</File>
-    <File>D:/Aerritis/LevelEditor/LevelEditor/Content/wood_tileset.png</File>
-    <File>D:/Aerritis/LevelEditor/LevelEditor/Content/Sprite/collidablesquare.png</File>
-    <File>D:/Aerritis/LevelEditor/LevelEditor/Content/Animations/decorations.png</File>
-    <File>D:/Aerritis/LevelEditor/LevelEditor/Content/Animations/animations.png</File>
+    <File>D:/Documents/Programming/Programming Backups/Aerritis/LevelEditor/LevelEditor/Content/Sprite/square.png</File>
+    <File>D:/Documents/Programming/Programming Backups/Aerritis/LevelEditor/LevelEditor/Content/wood_tileset.png</File>
+    <File>D:/Documents/Programming/Programming Backups/Aerritis/LevelEditor/LevelEditor/Content/Sprite/collidablesquare.png</File>
+    <File>D:/Documents/Programming/Programming Backups/Aerritis/LevelEditor/LevelEditor/Content/Animations/decorations.png</File>
+    <File>D:/Documents/Programming/Programming Backups/Aerritis/LevelEditor/LevelEditor/Content/Animations/animations.png</File>
   </SourceFiles>
 </SourceFileCollection>

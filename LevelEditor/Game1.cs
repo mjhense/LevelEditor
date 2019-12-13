@@ -21,6 +21,9 @@ namespace LevelEditor
         private VScrollBar vscroll;
         private HScrollBar hscroll;
 
+        //check for first frame
+        private bool firstFrame = true;
+
         private void OnPreparingDeviceSettings(object sender, PreparingDeviceSettingsEventArgs args)
         {
             args.GraphicsDeviceInformation.PresentationParameters.DeviceWindowHandle = drawSurface.Handle;
@@ -37,7 +40,6 @@ namespace LevelEditor
 
             vscroll = form.vScrollBar1;
             hscroll = form.hScrollBar1;
-
         }
         
         protected override void Initialize()
@@ -66,6 +68,13 @@ namespace LevelEditor
         
         protected override void Update(GameTime gameTime)
         {
+            if (firstFrame)
+            {
+                firstFrame = false;
+                //set the default selection square of the palette
+                form.pb_palette_MouseClick(this, new MouseEventArgs(MouseButtons.Left, 1, 0, 0, 0));
+            }
+
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == Microsoft.Xna.Framework.Input.ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Microsoft.Xna.Framework.Input.Keys.Escape))
                 MessageBox.Show(game.tilemap.getTileNum(4, 0).ToString());//Exit();
             elapsed += (float)gameTime.ElapsedGameTime.TotalSeconds;
